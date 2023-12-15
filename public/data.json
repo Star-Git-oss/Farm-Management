@@ -1,0 +1,123 @@
+[
+    {
+        "id": "5",
+        "price": "80",
+        "email": "farmiOrganic@gmail.com",
+        "name": "Lemon",
+        "about": "Fresh lemon for your and your family healthy life",
+        "quantity": "26",
+        "supplier": "Beverly Warner",
+        "img": "https://i.ibb.co/w0rTPZq/lemon.png"
+    },
+    {
+        "id": "6",
+        "price": "70",
+        "email": "farmiOrganic@gmail.com",
+        "name": "Orange",
+        "about": "An orange is a fruit of various citrus species ",
+        "quantity": "28",
+        "supplier": "Beverly Warner",
+        "img": "https://i.ibb.co/3fLWnsW/orange.png"
+    },
+    {
+        "id": "7",
+        "price": "90",
+        "email": "farmiOrganic@gmail.com",
+        "name": "Pomegranate",
+        "about": "A pomegranate is a sweet, tart fruit with thick, red skin.",
+        "quantity": "36",
+        "supplier": "Nellie Lane",
+        "img": "https://i.ibb.co/tBtJ251/pomegranate.png"
+    },
+    {
+        "id": "8",
+        "price": "80",
+        "email": "farmiOrganic@gmail.com",
+        "name": "Mango",
+        "about": "The fruit varies greatly in size and character.",
+        "quantity": "34",
+        "supplier": "Wade Moran",
+        "img": "https://i.ibb.co/Nyrbnjm/9-2-mango-transparent.png"
+    },
+    {
+        "id": "1",
+        "price": "120",
+        "email": "farmiOrganic@gmail.com",
+        "name": "Papaya",
+        "about": " Papaya is more pronounced in some varieties",
+        "quantity": "20",
+        "supplier": "Jane Jones",
+        "img": "https://i.ibb.co/N2gMjM0/papaya.png"
+    },
+
+    {
+        "id": "2",
+        "price": "50",
+        "email": "farmiOrganic@gmail.com",
+        "name": "Kiwi",
+        "about": "Kiwis are high in Vitamin C provide a variety of health benefits",
+        "quantity": "35",
+        "supplier": "Fredrick Joseph",
+        "img": "https://i.ibb.co/MCR6SLQ/kiwi.png"
+    },
+    {
+        "id": "3",
+        "price": "55",
+        "email": "farmiOrganic@gmail.com",
+        "name": "Apple",
+        "about": "For most weddings with premium plans ",
+        "quantity": "15",
+        "supplier": "Nellie Lane",
+        "img": "https://i.ibb.co/6rr3YfR/apple.png"
+    },
+    {
+        "id": "3",
+        "price": "22",
+        "email": "farmiOrganic@gmail.com",
+        "name": "Red Cherry",
+        "about": "Cherries are low in calories and chock full of fiber",
+        "quantity": "15",
+        "supplier": "John Deu",
+        "img": "https://freepngimg.com/thumb/cherry/11-red-cherry-png-image-download.png"
+    },
+    {
+        "id": "3",
+        "price": "120",
+        "email": "farmiOrganic@gmail.com",
+        "name": "Apricot",
+        "about": "An apricot is a fruit, or the tree that bears the fruit, of several",
+        "quantity": "14",
+        "supplier": "John Deu",
+        "img": "https://freepngimg.com/thumb/apricot/2-2-apricot-free-download-png.png"
+    },
+    {
+        "id": "3",
+        "price": "90",
+        "email": "farmiOrganic@gmail.com",
+        "name": "Strawberry",
+        "about": "The garden strawberry is a widely grown hybrid species of the genus",
+        "quantity": "44",
+        "supplier": "Ghocita Ram",
+        "img": "https://freepngimg.com/thumb/strawberry/29-strawberry-png-images.png"
+    },
+    {
+        "id": "3",
+        "price": "90",
+        "email": "farmiOrganic@gmail.com",
+        "name": "Banana",
+        "about": "A banana is an elongated, edible fruit – botanically a berry",
+        "quantity": "44",
+        "supplier": "Ghocita Ram",
+        "img": "https://freepngimg.com/thumb/banana/13-banana-png-image-bananas-picture-download.png"
+    },
+    {
+        "id": "4",
+        "price": "30",
+        "email": "farmiOrganic@gmail.com",
+        "name": "Green Lemon",
+        "about": "For most businesses event like book fair, craft fair.",
+        "quantity": "30",
+        "supplier": "Shaun Schultz",
+        "img": "https://i.ibb.co/PgBC0Vx/green-lemon.png"
+    }
+]
